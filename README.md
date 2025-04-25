@@ -60,7 +60,7 @@ Reversed first five: [5, 4, 3, 2, 1]
 ## 🚀 Getting Started
 
 ### Requirements:  
-- Python 3.x  
+- Python 3.x (tested on 3.13.1)
 
 ### How to Run:  
 ```bash
