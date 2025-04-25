@@ -31,6 +31,7 @@ Test edge cases by entering:
 
 **Sample Output:**  
 Enter the student's name: Charlie
+
 Charlie's marks: 33
 
 
